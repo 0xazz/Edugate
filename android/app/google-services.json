@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "811644074624",
+    "project_id": "test-d2d6d",
+    "storage_bucket": "test-d2d6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811644074624:android:7498569e8181fa6f3b8465",
+        "android_client_info": {
+          "package_name": "com.mycompany.edugate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811644074624-uamjuhnnl97vl9nqacjl5n4c7lfdfslj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.edugate",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "811644074624-beckrub2h1lg2ckl6o0l9o321oqnf6vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYG0aZ9dVxMt31FDU8QWRIgrIEYt_c8yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811644074624-beckrub2h1lg2ckl6o0l9o321oqnf6vl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811644074624-2n0g4a0gk6svfa16n12q27amgukmjl24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.test2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
